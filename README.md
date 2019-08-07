@@ -9,8 +9,6 @@ aggregates the data. FiveThirtyEight cleaned the original dataset and released i
 
 Using visualizations, we can start to explore questions from the dataset such as:
  - Do students in more popular majors make more money? 
-  * Using scatter plots
  - How many majors are predominantly male? 
-  * Using histograms
  - Which category of majors have the most students?
-  * Using bar plots
+ 
